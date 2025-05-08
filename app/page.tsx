@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function CompanyProfile() {
   const companyName = "PT Tunas Link Indonesia Lampung";
   const tagline = "Mitra Digital dan Teknologi Terpercaya di Lampung";
-  const heroImage = "/hero.jpg";
+  const heroImage = "hero.jpg";
   const companyLogo = "/logo 1.jpg";
 
   return (
